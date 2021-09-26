@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Programming Hero Modarator hiring site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://quizzical-liskov-a2773b.netlify.app/
 
-## Available Scripts
-
-In the project directory, you can run:
+## About The website
+ ⚫ HTML,CSS,Bootstrap,react,Fontawesome were used to build this site
+ ⚫Top 100 studens's profile is given here, which is from batch 3 of Programming Hero's
+ ⚫Here Jhankar bhai can hire our HERO(modarator/support) from here
 
 ### `npm start`
 
