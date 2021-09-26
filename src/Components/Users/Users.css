@@ -1,0 +1,27 @@
+.user-img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin-top:15px ;
+    
+}
+.box{
+    background-color:grey;
+}
+.user-cart{
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: lavender;
+}
+.btn-regular{
+    background-color: cadetblue;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    width: 200px;
+}
+.fontAwesome{
+    height: 100;
+}
